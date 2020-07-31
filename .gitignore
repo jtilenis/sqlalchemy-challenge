@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+climate_starter-Copy1.ipynb
+test_session.py
